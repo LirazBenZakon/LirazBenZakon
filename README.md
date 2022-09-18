@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Liraz. 3rd year Software Engineer.
-- 🌱 Currently looking to improve my skills of javascript, HTML and CSS
+- 🌱 Currently looking to improve my skill in javascript, HTML and CSS
 - 💞️ My goal is to be web developer.
      I plan to achivhe it by trying to build my own first website and mini games
 - 📫 lets connect! https://www.linkedin.com/in/liraz-ben-zakon/
