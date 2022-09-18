@@ -1,9 +1,9 @@
 &nbsp;👋 **Hi**, I’m Liraz. 3rd year Software Engineer.<br />
-&nbsp;🌱 **Currently:** looking to improve my skill in javascript, HTML and CSS.<br />
-&nbsp;💞️ **My goals:**<br />
+&nbsp;📚 **Currently:** looking to improve my skill in javascript, HTML and CSS.<br />
+&nbsp;📊 **My goals:**<br />
 &emsp;&emsp;⤏﻿ build my very own website <br /> 
 &emsp;&emsp;⤏﻿ learn to code mini games<br />
-&nbsp;📫 *Connect with me* https://www.linkedin.com/in/liraz-ben-zakon/<br />
+&nbsp;📧 *Connect with me* https://www.linkedin.com/in/liraz-ben-zakon/<br />
 
 ･ﾟ . ・✨ , * ･ﾟ. ｡ .🌠 . ・🌏. ･ﾟ ･* . 🚀 ・. ｡ ・ 🛸.・<br />
 
